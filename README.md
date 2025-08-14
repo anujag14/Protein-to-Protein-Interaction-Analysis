@@ -15,3 +15,5 @@ Graph Theory
 Network Topology
 NLP
 LSTM
+
+https://snap.stanford.edu/biodata/datasets/10000/10000-PP-Pathways.html (Link for PPI dataset)
